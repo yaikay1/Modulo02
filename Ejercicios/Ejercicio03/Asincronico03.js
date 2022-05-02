@@ -38,7 +38,22 @@ while(s !=2){
     } 
 
 }
-    
+ 
+
+for (var numb1 = 1; numb1 <= 100; numb1++)
+ {
+    if ((numb1 % 3 == 0) && (numb1 % 5 == 0) ) {
+        console.log("FizzBuzz")
+        console.log(numb1);
+    }else if(numb1 % 3 == 0){
+        console.log("Fizz");
+        console.log(numb1);
+    }else if(numb1 % 5 == 0){
+        console.log("Buzz");
+        console.log(numb1);
+    }
+}
+
     
     
     
