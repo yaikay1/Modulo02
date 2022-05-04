@@ -1,4 +1,4 @@
-/*
+
 var num = Number(prompt("Ingrese un numero :"));
 
 if (Number(num)){
@@ -10,8 +10,8 @@ if (Number(num)){
 }
 
 var cuadrado = num * num;
-alert("el cuadrado del : " +num+ " es " +cuadrado); */
-/* pausa 
+alert("el cuadrado del : " +num+ " es " +cuadrado); 
+
 console.log("Inicio")
 var contador = 0;
 while(contador <=20){
@@ -34,7 +34,7 @@ while(palabra !="chao"){
         alert("no entiendo");
     }
 }
-*/
+
 alert("debe ingresar un 0 para salir");
 var parar =1;
 var con=0;

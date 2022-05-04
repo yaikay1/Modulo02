@@ -7,6 +7,3 @@ console.log ("hola mundo")
 
  alert ("Tu mayoria de edad fue  :" + mayor);
 
-/*comentario
-de linea
-*/

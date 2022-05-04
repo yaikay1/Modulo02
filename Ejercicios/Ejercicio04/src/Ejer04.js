@@ -15,6 +15,7 @@ function contar(numb1, numb2){
 
 // 2 parte del ejercicio me falta completar pero se que deber[ia ser un array
 /*
+
 for (var numb1 = 1; numb1 <= 100; numb1++)
  {
     if ((numb1 % 3 == 0) && (numb1 % 5 == 0) ) {
