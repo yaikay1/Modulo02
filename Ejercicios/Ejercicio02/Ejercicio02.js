@@ -13,7 +13,7 @@ var sexo = Number(prompt("ingrese su sexo (1)Masculino / (2) Femenino"));
 if(edad >60 && sexo == 2 ){
     alert("Esta en edad jubilarse como mujer");
 }else if(edad >65 && sexo == 1){
-    alert("Esta en edad jubilarse como varonr");
+    alert("Esta en edad jubilarse como varon");
 }else{
-    alert("a[un no estiempo de jubilarse");
+    alert("aún no estiempo de jubilarse");
 }
